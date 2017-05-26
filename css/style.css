@@ -1,0 +1,68 @@
+/* ============================================================
+  SECTIONS
+============================================================ */
+section.module:last-child {
+  margin-bottom: 0;
+}
+
+section.module.content {
+  padding: 40px 0;
+}
+section.module.parallax {
+  height: 100vh;
+  background-position: right 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+section.module.parallax-1 {
+  background-image: url("../img/1.jpg");
+}
+
+
+
+section.module.parallax-2 {
+  background-image: url("../img/class.png");
+  height: 100vh;
+}
+section.module.parallax-3 {
+  background-image: url("../img/3.jpg");
+}
+
+section.module.parallax-5 {
+  background-image: url("../img/denuncia.jpg");
+    height: 60vh;
+    background-position: center;
+}
+
+section.module.parallax-5 .information {
+    position: relative;
+    height: 60vh;
+}
+
+section.module.parallax-5 .information .content-primary {
+    position: absolute;
+    height: 17vh;
+    left: 5%;
+    top: 50%;
+    margin-top: -8vh;
+}
+section.module.parallax-5 .title-default {
+    font-size: 3vw;
+}
+
+.wrapper {
+  float: left;
+  width: 100%;
+}
+
+body, html {
+      overflow-x: hidden;
+}
+
+section.module.parallax-6 {
+  background-image: url("../img/6.jpg");
+}
