@@ -68,12 +68,14 @@ section.module.parallax-6 {
 }
 
 section.module.parallax-estra {
-  background-image: url("../img/ingresos.jpg");
+  background-image: url("../img/estrategias.jpg");
 }
 
 section.module.parallax-ingre {
-  background-image: url("../img/estrategias.jpg");
+  background-image: url("../img/ingresos.jpg");
 }
+
+
 
 
 
